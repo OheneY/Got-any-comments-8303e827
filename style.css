@@ -1,0 +1,17 @@
+h1{
+	font-size: 64px;
+}
+label{
+	width: 600px;
+}
+.input{
+	width: 600px;	
+}
+#comment{
+	border: solid 2px;
+	border-color: red;
+}
+#comment:focus{
+	outline: none !important; 
+	border-color: green;
+}
